@@ -6,7 +6,7 @@ import {createBrowserRouter, NavLink} from "react-router-dom";
 export default function LeftBar(){
 
     return <>
-        <div className={'bg-gray-50 h-svh text-center'}>
+        <div className={'bg-gray-50 text-center'}>
             {/* Info sur l'admin*/}
             <div className={"text-center"}>
                 <div className={"bg-blue-800 rounded-b-full"}>

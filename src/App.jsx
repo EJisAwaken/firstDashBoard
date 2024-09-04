@@ -49,7 +49,7 @@ function Rooter(){
             <div>
                 <HeadBar/>
             </div>
-            <div className={"grid grid-cols-[200px_auto]"}>
+            <div className={"grid grid-cols-[300px_auto]"}>
                 <LeftBar/>
                 <Content outlet={<Outlet/>}/>
             </div>
